@@ -14,6 +14,7 @@ The project demonstrates how SQL can be used to transform raw
 transactional data into meaningful business insights that can support
 decision-making.
 
+![Library_project](https://miro.medium.com/v2/resize:fit:1400/0*Pe-AuQ4D_FgaE5TF)
 ------------------------------------------------------------------------
 
 ## 🎯 Business Problem
@@ -253,10 +254,25 @@ This helps understand:
 
 # 🛠️ Technologies Used
 
--   **SQL**
--   **MySQL / MySQL Workbench**
--   **CSV**
--   **Git & GitHub**
+- **SQL** – Data analysis and business problem solving
+- **Google BigQuery Sandbox** – Managing the large e-commerce dataset and writing/executing SQL queries
+- **CSV** – Source data files
+- **Git & GitHub** – Version control and project hosting
+
+---
+
+# ☁️ Data Analysis Environment
+
+This project was developed using **Google BigQuery Sandbox** to manage and analyze the large e-commerce dataset.
+
+BigQuery was used for:
+
+- Importing and managing the CSV datasets
+- Working with multiple related tables
+- Writing and executing SQL queries
+- Performing aggregations and calculations
+- Analyzing customer, order, sales, freight, delivery, and payment data
+- Efficiently querying the large dataset
 
 ------------------------------------------------------------------------
 
@@ -392,8 +408,8 @@ Import the provided CSV files into your SQL database.
 
 ## 3. Create / Select the Database
 
-Open your SQL environment such as **MySQL Workbench** and select the
-database containing the imported tables.
+Open **Google BigQuery Sandbox** and create the new
+database and import tables.
 
 ## 4. Run the SQL Queries
 
