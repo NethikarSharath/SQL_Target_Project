@@ -95,6 +95,16 @@ Important tables used in the analysis include:
 The exact table names may depend on how the CSV files were imported into
 the SQL database.
 
+
+## 📦 Dataset Availability
+
+The original CSV datasets used in this project are not included in this GitHub repository due to their large file size.
+
+The complete datasets are hosted separately on Google Drive and can be accessed using the link below:
+
+🔗 **[Access the Complete Dataset](https://drive.google.com/drive/folders/1llePzMV-ggu9qcqih0-FSqpM0xGwqhcm?usp=drive_link)**
+
+> **Note:** The datasets are provided for educational and analysis purposes and are the same datasets used for the SQL analysis in this project.
 ------------------------------------------------------------------------
 
 # 🔎 Analysis Performed
@@ -344,9 +354,6 @@ The SQL analysis is designed to help Target answer questions such as:
 -   Which payment methods are most popular?
 -   How frequently do customers use installments?
 
-The actual numerical findings should be taken directly from the results
-of the SQL queries in this project.
-
 ------------------------------------------------------------------------
 
 # 📊 Business Recommendations
@@ -365,9 +372,6 @@ Based on the analysis, Target can potentially:
     customer satisfaction.
 7.  **Prioritize high-value markets** for business expansion and
     targeted campaigns.
-
-> Recommendations should be refined using the actual numerical results
-> obtained from the SQL analysis.
 
 ------------------------------------------------------------------------
 
